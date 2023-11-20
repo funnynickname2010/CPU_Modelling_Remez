@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/CPU_Modelling_Remez/CPU_Modelling_Remez.vcxproj
+/CPU_Modelling_Remez/CPU_Modelling_Remez.vcxproj.filters
