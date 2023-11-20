@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPU_Modelling_Remez", "CPU_Modelling_Remez\CPU_Modelling_Remez.vcxproj", "{79470B19-81B1-4D0C-BF0B-795597F713AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Debug|x64.ActiveCfg = Debug|x64
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Debug|x64.Build.0 = Debug|x64
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Debug|x86.Build.0 = Debug|Win32
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Release|x64.ActiveCfg = Release|x64
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Release|x64.Build.0 = Release|x64
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Release|x86.ActiveCfg = Release|Win32
+		{79470B19-81B1-4D0C-BF0B-795597F713AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933EA816-4DBD-47DF-A7AD-DC6A45538F6A}
+	EndGlobalSection
+EndGlobal
